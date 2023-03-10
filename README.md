@@ -1,4 +1,4 @@
-### OLÁ, EU SOU O RICARDO
+### Olá, eu sou o Ricardo 👋
 
 
 - 🔭 Atuamente estou cursando T.I
