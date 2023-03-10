@@ -6,3 +6,4 @@
 - 👯 Procuro emprego na área de T.I
 - 💬 Estudante 1/3
 - 📫 Email: Ricardo.cassettari07@gmail.com
+- 📞 (13) 99723-9457
