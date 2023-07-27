@@ -2,9 +2,9 @@
 
 
 - 🔭 Atuamente estou cursando T.I
-- 🌱 Atuamente estou aprendendo C# e javacript
+- 🌱 Atuamente estou aprendendo C#, JavaScript, HTML e CSS
 - 👯 Procuro emprego na área de T.I
-- 💬 Estudante 1/3
+- 💬 Estudante 2/3
 - 📫 Email: Ricardo.cassettari07@gmail.com
 - 📞 (11) 94005-9685
 
