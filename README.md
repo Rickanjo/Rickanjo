@@ -6,7 +6,7 @@
 - 👯 Procuro emprego na área de T.I
 - 💬 Estudante 2/3
 - 📫 Email: Ricardo.cassettari07@gmail.com
-- 📞 (11) 94005-9685
+- 📞 (11) 94005-****
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickanjo&theme=transparent&show_icons=true)
 
